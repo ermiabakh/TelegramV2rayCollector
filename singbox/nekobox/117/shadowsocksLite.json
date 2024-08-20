@@ -112,15 +112,13 @@
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣6️⃣",
                 "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣"
             ]
         },
@@ -135,15 +133,13 @@
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣6️⃣",
                 "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -221,16 +217,6 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
-            "type": "shadowsocks",
-            "server": "188.212.132.20",
-            "server_port": 52952,
-            "method": "chacha20-ietf-poly1305",
-            "password": "XRUwpkSouW5HCTUFUxErfnL5AmahofrjznVrAu2iNFMFGUCrChznAULhuHGAQdC463mzcgo2jV546Ut5HKhk3pz956cHYYyc",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "195.2.76.71",
@@ -281,17 +267,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "95.164.35.90",
-            "server_port": 8388,
-            "method": "chacha20-ietf-poly1305",
-            "password": "MDJhZGE5",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
@@ -301,7 +277,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
