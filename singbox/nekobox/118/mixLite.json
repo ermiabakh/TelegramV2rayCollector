@@ -116,7 +116,7 @@
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
@@ -408,9 +408,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | AE🇦🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | FI🇫🇮 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣5️⃣"
+                "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣4️⃣"
             ]
         },
         {
@@ -423,7 +422,7 @@
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
@@ -715,9 +714,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | AE🇦🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | FI🇫🇮 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣5️⃣"
+                "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -900,7 +898,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "hexo.4ce.cn",
             "server_port": 80,
@@ -7334,17 +7332,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | FI🇫🇮 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "141.98.169.248",
-            "server_port": 25757,
-            "method": "chacha20-ietf-poly1305",
-            "password": "kywNKLOlAakmgRxa9xqvHU",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "195.2.76.71",
             "server_port": 60422,
@@ -7354,7 +7342,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "23.158.56.196",
             "server_port": 8882,
