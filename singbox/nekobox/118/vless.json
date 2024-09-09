@@ -119,8 +119,7 @@
                 "KZ🇰🇿",
                 "KH🇰🇭",
                 "AU🇦🇺",
-                "NL🇳🇱",
-                "IR🇮🇷"
+                "NL🇳🇱"
             ]
         },
         {
@@ -324,7 +323,7 @@
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @melov2ray | SE🇸🇪 | 0️⃣3️⃣",
@@ -368,8 +367,7 @@
                 "رایگان | VLESS | @v2rayNG_Matsuri | KH🇰🇭 | 0️⃣6️⃣",
                 "رایگان | VLESS | @v2ray1_ng | AU🇦🇺 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣6️⃣",
-                "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣7️⃣",
-                "رایگان | VLESS | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣"
+                "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -585,7 +583,7 @@
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -702,16 +700,6 @@
             "outbounds": [
                 "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣6️⃣",
                 "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣7️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IR🇮🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VLESS | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -5746,7 +5734,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @Good_V2rayy | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -6678,20 +6666,6 @@
             "server": "38.180.70.206",
             "server_port": 8880,
             "uuid": "ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "46.245.75.90",
-            "server_port": 443,
-            "uuid": "bdc32a6b-aaff-44f7-9739-86472afbb601",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
