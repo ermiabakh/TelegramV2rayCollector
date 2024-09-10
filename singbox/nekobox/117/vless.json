@@ -112,7 +112,7 @@
                 "CR🇨🇷",
                 "LT🇱🇹",
                 "SG🇸🇬",
-                "CZ🇨🇿",
+                "EE🇪🇪",
                 "IR🇮🇷",
                 "NL🇳🇱"
             ]
@@ -349,7 +349,7 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | CR🇨🇷 | 0️⃣3️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | LT🇱🇹 | 0️⃣4️⃣",
                 "رایگان | VLESS | @v2logy | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | VLESS | @customv2ray | CZ🇨🇿 | 0️⃣3️⃣",
+                "رایگان | VLESS | @customv2ray | EE🇪🇪 | 0️⃣3️⃣",
                 "رایگان | VLESS | @VmessProtocol | IR🇮🇷 | 0️⃣5️⃣",
                 "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣6️⃣",
                 "رایگان | VLESS | @DailyV2RY | NL🇳🇱 | 0️⃣7️⃣"
@@ -650,10 +650,10 @@
             "tolerance": 50
         },
         {
-            "tag": "CZ🇨🇿",
+            "tag": "EE🇪🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @customv2ray | CZ🇨🇿 | 0️⃣3️⃣"
+                "رایگان | VLESS | @customv2ray | EE🇪🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -6466,7 +6466,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @customv2ray | CZ🇨🇿 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @customv2ray | EE🇪🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "Love.salarvand.org",
             "server_port": 2082,
