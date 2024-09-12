@@ -112,6 +112,7 @@
                 "FR🇫🇷",
                 "CR🇨🇷",
                 "LT🇱🇹",
+                "IR🇮🇷",
                 "SG🇸🇬",
                 "KZ🇰🇿",
                 "IE🇮🇪",
@@ -383,7 +384,7 @@
                 "رایگان | VLESS | @nofiltering2 | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣5️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @vmessorg | DE🇩🇪 | 0️⃣3️⃣",
@@ -397,13 +398,12 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | CR🇨🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | CR🇨🇷 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | CR🇨🇷 | 0️⃣3️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | LT🇱🇹 | 0️⃣4️⃣",
+                "رایگان | VLESS | @proxy_kafee | IR🇮🇷 | 0️⃣5️⃣",
                 "رایگان | VLESS | @v2logy | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣4️⃣",
                 "رایگان | VLESS | @customv2ray | KZ🇰🇿 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣",
@@ -415,7 +415,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣",
                 "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣6️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -701,7 +701,7 @@
                 "رایگان | VLESS | @nofiltering2 | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣5️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -732,8 +732,7 @@
                 "رایگان | VLESS | @vpn_xw | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣"
+                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -762,11 +761,20 @@
             "tolerance": 50
         },
         {
+            "tag": "IR🇮🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | VLESS | @proxy_kafee | IR🇮🇷 | 0️⃣5️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "SG🇸🇬",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @v2logy | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣4️⃣"
+                "رایگان | VLESS | @v2logy | SG🇸🇬 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -832,7 +840,7 @@
             "tag": "PL🇵🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣6️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -7488,7 +7496,7 @@
             }
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "217.196.103.206",
             "server_port": 29312,
@@ -7752,27 +7760,6 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣",
-            "type": "trojan",
-            "server": "13.39.38.126",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | CR🇨🇷 | 0️⃣1️⃣",
             "type": "vless",
             "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
@@ -7874,6 +7861,20 @@
             }
         },
         {
+            "tag": "رایگان | VLESS | @proxy_kafee | IR🇮🇷 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "45.94.213.171",
+            "server_port": 46112,
+            "uuid": "6818bb3a-048e-4cc9-b773-90bba45c6481",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | VLESS | @v2logy | SG🇸🇬 | 0️⃣3️⃣",
             "type": "vless",
             "server": "ArV2ray.mehpow.IR",
@@ -7902,16 +7903,6 @@
                 "ping_timeout": "15s",
                 "permit_without_stream": false
             }
-        },
-        {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | SG🇸🇬 | 0️⃣4️⃣",
-            "type": "shadowsocks",
-            "server": "159.65.129.128",
-            "server_port": 18814,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ZdWZ9QvFlbOOGreMoE3Bq8",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "رایگان | VLESS | @customv2ray | KZ🇰🇿 | 0️⃣1️⃣",
@@ -8120,7 +8111,7 @@
             }
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "51.77.53.200",
             "server_port": 8080,
