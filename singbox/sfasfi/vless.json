@@ -197,12 +197,12 @@
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @V2rayCollector | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2rayCollector | US🇺🇸 | 0️⃣2️⃣",
@@ -452,12 +452,12 @@
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @V2rayCollector | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2rayCollector | US🇺🇸 | 0️⃣2️⃣",
@@ -2544,7 +2544,85 @@
             }
         },
         {
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "Speedtest.net",
+            "server_port": 443,
+            "uuid": "TELEGRAM-NUFiLTER",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Speedtest.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "Yaalimadad.net"
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
             "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "79b42e75-5a6a-413f-9e1f-18ebea6044c0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "www.speedtest.net.B.lightning-6.LiVE."
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "79b42e75-5a6a-413f-9e1f-18ebea6044c0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "www.speedtest.net.A.lightning-6.LiVE."
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "151.101.2.219",
             "server_port": 443,
@@ -2576,11 +2654,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "ac86d487-525f-40d6-95b1-8521df833917",
+            "uuid": "7a5a4624-df8d-4955-bccc-b3fa6161411f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2590,75 +2668,11 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2560",
+                "path": "\/Telegram-XV2ry2?ed=512",
                 "headers": {
-                    "Host": "shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir."
+                    "Host": "www.speedtest.net.10.432.10.10.10.10.ir.xn--g28h.dns-dynamic.net."
                 },
                 "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "16c12866-1d02-4529-83dc-388214841124",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "joinshhproxybede.ir"
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "Speedtest.net",
-            "server_port": 443,
-            "uuid": "TELEGRAM-NUFiLTER",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-                "headers": {
-                    "Host": "Neisansavar.net"
-                },
-                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
@@ -2666,8 +2680,8 @@
             "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "358eab4b-7db4-4f93-a7b0-5e6f98b7cf45",
+            "server_port": 80,
+            "uuid": "95cbdd0d-7345-403f-8dc7-a7e3cf36b108",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2675,52 +2689,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/W0tvTq4oSbHyKeRM?ed=2560",
+                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
                 "headers": {
-                    "Host": "downloadlynet.ir."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "Speedtest.net",
-            "server_port": 443,
-            "uuid": "TELEGRAM-NUFiLTER",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-                "headers": {
-                    "Host": "Yaalimadad.net"
+                    "Host": "barkatc2.ir"
                 },
                 "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
