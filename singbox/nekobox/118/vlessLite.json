@@ -4600,7 +4600,7 @@
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 80,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4612,7 +4612,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v26.newbackup.com"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.newbackup.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4623,7 +4623,7 @@
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 80,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4635,7 +4635,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.newbackup.com"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.newbackup.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4646,7 +4646,7 @@
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 443,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4667,7 +4667,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v30.newbackup.com"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.newbackup.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4677,8 +4677,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "SpeedTest.net",
-            "server_port": 80,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
+            "server_port": 443,
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4686,11 +4686,20 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.newbackup.com"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.newbackup.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4701,71 +4710,7 @@
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 443,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.newbackup.com"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "SpeedTest.net",
-            "server_port": 443,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.newbackup.com"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "SpeedTest.net",
-            "server_port": 443,
-            "uuid": "39541ce0-b046-4ed5-a425-b9b9488b83e3",
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4787,6 +4732,52 @@
                 "path": "\/",
                 "headers": {
                     "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.newbackup.com"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "SpeedTest.net",
+            "server_port": 80,
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.newbackup.com"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "SpeedTest.net",
+            "server_port": 80,
+            "uuid": "db74236d-7e1e-44df-b589-807076044041",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.newbackup.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
