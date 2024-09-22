@@ -180,10 +180,10 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
@@ -341,7 +341,6 @@
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣"
             ]
@@ -420,10 +419,10 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
@@ -581,7 +580,6 @@
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣"
             ],
@@ -2438,7 +2436,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -2461,7 +2459,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -2475,7 +2473,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -2498,7 +2496,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -6773,16 +6771,6 @@
                     "Host": "e9464f45.trauma-2r4.pages.dev"
                 }
             }
-        },
-        {
-            "tag": "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "77.83.246.74",
-            "server_port": 33320,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a16mEzcthkdQAqLds9MssJ",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
