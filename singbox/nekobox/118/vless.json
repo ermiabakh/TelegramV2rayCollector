@@ -580,7 +580,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-76",
+            "uuid": "Parsashonam-77",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -594,7 +594,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-75",
+            "uuid": "Parsashonam-76",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -608,7 +608,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-74",
+            "uuid": "Parsashonam-75",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -880,7 +880,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-75",
+            "uuid": "Parsashonam-76",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -912,7 +912,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-74",
+            "uuid": "Parsashonam-75",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
