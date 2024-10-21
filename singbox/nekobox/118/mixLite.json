@@ -313,7 +313,6 @@
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
@@ -532,7 +531,6 @@
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
@@ -2393,7 +2391,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
+            "uuid": "55096bff-e2ec-415e-9632-0a4d3db2b47d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2416,7 +2414,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
+            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2439,7 +2437,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
+            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2462,7 +2460,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "b65b80c5-f20c-4326-aedd-1f054aa68c65",
+            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2485,7 +2483,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "b65b80c5-f20c-4326-aedd-1f054aa68c65",
+            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2508,7 +2506,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "e9576711-8470-47c6-ba12-8a4d9d099ae9",
+            "uuid": "b65b80c5-f20c-4326-aedd-1f054aa68c65",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2531,7 +2529,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "e9576711-8470-47c6-ba12-8a4d9d099ae9",
+            "uuid": "b65b80c5-f20c-4326-aedd-1f054aa68c65",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5822,27 +5820,6 @@
             "server": "18.168.132.135",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "98.82.238.11",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
