@@ -118,8 +118,7 @@
                 "IR🇮🇷",
                 "IE🇮🇪",
                 "GB🇬🇧",
-                "BH🇧🇭",
-                "AE🇦🇪"
+                "BH🇧🇭"
             ]
         },
         {
@@ -354,8 +353,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣6️⃣"
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -666,16 +664,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "AE🇦🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -6614,16 +6602,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣6️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
